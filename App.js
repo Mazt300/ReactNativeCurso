@@ -14,6 +14,8 @@ const App = () =>{
     setName('Marcos Antonio Zuniga Tapia')
     setSession({numero : 7, title : 'style'})
     setcurrent(false)
+
+
   }
 
   // const onclickHandler = () =>{
